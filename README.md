@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Code King Academy Frontend Course: React Lectures
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Code King Academy Frontend Course** repository for React lectures! This repository contains all the code examples and projects discussed during our React courses. Whether you're following along with our YouTube channel or learning independently, you'll find all the resources you need here.
 
-## Available Scripts
+[Code King Academy Youtube](https://www.youtube.com/channel/UCJoqs9hXVD2gdZusrhSRN9A)
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Code King Academy Frontend Course: React Lectures](#code-king-academy-frontend-course-react-lectures)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Course Structure](#course-structure)
+  - [Setup Instructions](#setup-instructions)
+  - [Lecture Contents](#lecture-contents)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This repository is part of the **Code King Academy Frontend Course** series. Here, we focus on React, one of the most popular JavaScript libraries for building user interfaces. This course is designed to take you from beginner to advanced level in React, with practical examples and projects.
 
-### `npm test`
+## Course Structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The course is structured into multiple sections, each focusing on different aspects of React:
 
-### `npm run build`
+1. **Introduction to React**: Basics of React, components, JSX, and props.
+2. **State Management**: Managing state with hooks like `useState` and `useReducer`.
+3. **Component Lifecycle**: Understanding the lifecycle of React components.
+4. **Advanced Hooks**: Using advanced hooks like `useEffect`, `useContext`, and custom hooks.
+5. **Routing**: Implementing routing in React using `react-router`.
+6. **State Management Libraries**: Introduction to Redux and other state management libraries.
+7. **API Integration**: Fetching data from APIs and handling asynchronous operations.
+8. **Testing**: Writing tests for React components using Jest and React Testing Library.
+9. **Deployment**: Deploying React applications to various platforms.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Setup Instructions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run the code examples locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository**:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/Code-King-Academy/react_lecture.git
+   cd react_lecture
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. **Install dependencies**:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. **Run the development server**:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   npm start
+   ```
 
-## Learn More
+4. **Open your browser** and navigate to `http://localhost:3000` to see the application in action.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Lecture Contents
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Each lecture's code is stored in its respective folder. Below is a brief description of each folder:
 
-### Code Splitting
+- **01-introduction**: Basic setup and introduction to React.
+- **02-state-management**: Examples of state management using hooks.
+- **03-component-lifecycle**: Understanding component lifecycle methods.
+- **04-advanced-hooks**: Working with advanced hooks and custom hooks.
+- **05-routing**: Implementing routing with `react-router`.
+- **06-state-management-libraries**: Introduction to Redux and other libraries.
+- **07-api-integration**: Examples of API integration and asynchronous operations.
+- **08-testing**: Writing tests for React components.
+- **09-deployment**: Steps to deploy React applications.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+We hope this repository serves as a valuable resource in your React learning journey. Happy coding!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Code King Academy Team

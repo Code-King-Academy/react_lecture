@@ -1,0 +1,14 @@
+.section {
+  border-bottom: 0.2px solid gray;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+
+.section h3 {
+  margin-top: 0;
+}
+
+.section p {
+  margin: 8px 0;
+}
